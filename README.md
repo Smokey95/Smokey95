@@ -1,1 +1,7 @@
-# Smokey95
+# 👑 The King Is Dead, Long Lives The King 👑
+
+Hey there I'm Smokey - 
+
+## 🚀 Skills & Tools
+---
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,discord,dotnet,github,idea,java,linkedin,linux,matlab,powershell,py,raspberrypi,scala,sketchup,vscode,vue)](https://skillicons.dev)
