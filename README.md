@@ -1,7 +1,5 @@
-
- ## ***"A mind needs books as a sword needs a whetstone, if it is to keep its edge."***
-
- <cite>Tyrion Lannister</cite> 
+### ***"A mind needs books as a sword needs a whetstone, if it is to keep its edge."***
+<cite>Tyrion Lannister</cite>
 
 ***
 
