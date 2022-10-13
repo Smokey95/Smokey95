@@ -1,7 +1,7 @@
 
 > ## ***"A mind needs books as a sword needs a whetstone, if it is to keep its edge."***
 >
-> <cite>Thion Lenister</cite> 
+> <cite>Tyrion Lannister</cite> 
 
 ***
 
