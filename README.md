@@ -8,8 +8,9 @@ Hey there, I'm using GitHub
 
 ## 🚀 Skills & Tools
 ---
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,discord,dotnet,github,idea,java,linkedin,linux,matlab,powershell,py,raspberrypi,scala,sketchup,vscode,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,rust,dotnet,java,linux,matlab,powershell,py,scala,tensorflow,latex,markdown)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=discord,github,gitlab,vscode,idea,linkedin,raspberrypi,figma,sketchup)](https://skillicons.dev)
 ---
 
 ## 📈 Stats
